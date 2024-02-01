@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankit211b386
+- 👋 Hi, I’m Ankit Jaiswal
 - 👀 I’m interested in Learning and Executing
 - 🌱 I’m currently learning Software Development , react.js and node.js
 - 💞️ I’m looking to collaborate on something i already know 
